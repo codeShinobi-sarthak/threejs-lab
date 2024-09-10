@@ -41,7 +41,7 @@ jobs:
 
       # Build the Vite project
       - name: Build the project
-        run: npm run build
+        run: npm run dev
 
       # Upload the built files in the `dist` folder to GitHub Pages
       - name: Upload artifact
