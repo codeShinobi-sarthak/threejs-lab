@@ -4,7 +4,7 @@ This project is a visualization of the solar system using Three.js. It features 
 
 ## Live Demo
 
-You can view the live demo of the project [here](https://your-live-demo-link.com).
+You can view the live demo of the project [here](https://solar-system-threejs-project.netlify.app/).
 
 ## Features
 
